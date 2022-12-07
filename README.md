@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Main page: [nebenvlaw.github.io](nebenvlaw.github.io)
+Main page: [nebenvlaw.github.io](https://www.nebenvlaw.github.io)
 
 <!--
 **NebEnvLaw/nebenvlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
